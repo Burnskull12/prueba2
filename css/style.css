@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+:root{
+	--color-hover-menu:#FE8F01;
+}
+body{
+	font-size: 14px;
+}
+header{
+	background-color: #3d3d3d;
+	padding: 10px 0;
+}
+
+
+#about-us{
+	background-color: #F5F5F5;
+	padding: 30px 0;
+}
+
+#about-us h2{
+	text-align: center;
+}
+
+#about-us .color{
+	background-color:  #494949;
+}
+
+#about-us h3{
+	color: #fff;
+	text-align: center;
+}
+
+#about-us p{
+	color: #fff;
+	text-align: center;
+}
+
+#about-us .la-table{
+	background-color: var(--color-hover-menu);
+}
+
+#about-us .la-money-bill{
+	background-color: var(--color-hover-menu);
+}
+
+#about-us .la-chart-pie{
+	background-color: var(--color-hover-menu);
+}
+
+#counter{
+	background-color: #010101;
+	padding: 30px 0;
+}
+
+#counter .la-smile{
+	color: #fff;
+}
+
+#counter .la-instagram{
+	color: #fff;
+}
+
+#counter .la-edit{
+	color: #fff;
+}
+
+#counter .la-trophy{
+	color: #fff;
+}
+
+#counter h4{
+	color: #fff;
+}
+
+#counter p{
+	color: var(--color-hover-menu);
+}
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+}
+
